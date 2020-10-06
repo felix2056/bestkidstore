@@ -138,7 +138,7 @@
                                         </span>
                                     </p>
 
-                                    <form method="post" action="/cart/add" id="product_form_2072538873954" accept-charset="UTF-8" class="product-form product-form-product-template" enctype="multipart/form-data">
+                                    <form method="post" action="/product/cart.php" id="product_form_2072538873954" accept-charset="UTF-8" class="product-form product-form-product-template" enctype="multipart/form-data">
                                         <input type="hidden" name="form_type" value="product">
                                         <input type="hidden" name="utf8" value="✓">
 
@@ -191,7 +191,7 @@
 
 
                                         <div class="product-form__item product-form__item--submit">
-                                            <button type="submit" name="add" id="AddToCart-product-template" class="btn product-form__cart-submit">
+                                            <button type="button" name="add" id="AddToCart-product-template" class="btn product-form__cart-submit">
                                                 <span id="AddToCartText-product-template">
                                                     Add to cart
                                                 </span>
