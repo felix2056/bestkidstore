@@ -191,11 +191,11 @@
 
 
                                         <div class="product-form__item product-form__item--submit">
-                                            <button type="button" name="add" id="AddToCart-product-template" class="btn product-form__cart-submit">
+                                            <a href="/products/cart.php" id="AddToCart-product-template" class="btn product-form__cart-submit">
                                                 <span id="AddToCartText-product-template">
                                                     Add to cart
                                                 </span>
-                                            </button>
+                                            </a>
 
                                             <a href="/products/checkout.php?product=<?php echo $single['id'] ?>"id="AddToCart-product-template" class="btn product-form__cart-submit" style="margin-top: 10px;background: #06e206;">
                                                 <span id="AddToCartText-product-template">
