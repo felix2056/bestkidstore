@@ -1348,7 +1348,7 @@
                         </span>
 
                         <span class="visually-hidden" id="checkout-context-step-one">
-                            Customer information - homedecor-1604 - Checkout
+                            Customer information - bestkidstore - Checkout
                         </span>
                     </div>
 
@@ -1359,7 +1359,7 @@
 
                 <footer class="main__footer" role="contentinfo">
                     <p class="copyright-text ">
-                        All rights reserved homedecor-1604
+                        All rights reserved bestkidstore-1604
                     </p>
 
                     <div class="grid">
@@ -1373,7 +1373,7 @@
             <aside class="sidebar" role="complementary">
                 <div class="sidebar__header">
                     <a class="logo logo--left" href="/">
-                        <span class="logo__text heading-1">homedecor-1604</span>
+                        <span class="logo__text heading-1">bestkidstore</span>
                     </a>
 
                     <h1 class="visually-hidden">
